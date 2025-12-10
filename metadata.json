@@ -1,0 +1,5 @@
+{
+  "name": "Money Tree Personality Test",
+  "description": "A financial personality quiz that identifies your 'Money Tree' persona and generates custom investment fund recommendations using Gemini AI.",
+  "requestFramePermissions": []
+}
